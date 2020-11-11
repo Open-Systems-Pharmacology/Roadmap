@@ -20,11 +20,12 @@ modeling & simulation sciences in pharmaceutical and life science.
 
 ### The following topics have been selected as strategic focus areas:
 
-
-|||
+| Area |  |
 | --- | --- |
-| **Applications**<br>• Drug Drug Interactions<br>• Population Predictions<br>• First in Human Predictions<br>• Pharmacodynamics Modeling  | **Regulartory Foundation** <br>• Qualification Concepts <br>• Quality by Design & Automation<br><br><br>|
-| **Scientific and Methodological Foundation**<br>• Statistical Modeling Concept in QSP<br>• Clinical Trial Simulation<br>• Representation of Omics Information   | **Software and Software Usability development**<br> <br><br><br>  |
+|**Applications**| • Drug Drug Interactions<br>• Population Predictions<br>• First in Human Predictions<br>• Pharmacodynamics Modeling
+| **Regulartory Foundation** | • Qualification Concepts <br>• Quality by Design & Automation
+| **Scientific and Methodological Foundation** | • Statistical Modeling Concept in QSP<br>• Clinical Trial Simulation<br>• Representation of Omics Information   | 
+| **Software and Software Usability development**  | |
 
 
 
