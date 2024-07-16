@@ -39,10 +39,12 @@ OSP Management Team will organize coordination and oversee and steer all activit
 
 * Absorption
 * Automation
+* Biologics
 * Community Engagement
 * DDI
 * IVIVE
 * PBPK Best Practices
+* PBBM
 * PD
 * Special Populations
 * Statistical Modelling
@@ -54,9 +56,11 @@ OSP Management Team will organize coordination and oversee and steer all activit
 | --- | --- | --- |
 | **Absorption** | The addition of model structures defining additional routes of administration/absorption is required to expand the application scope of the software in a consistent manner across users. The overall objectives are to define processes for <br>1. Technical generation of new routes of absorption destined for the OSP Suite<br>2. Evaluation of those absorption modules.| Erik Sjörgren [(@Erik-Sjogren)](https://github.com/Erik-Sjogren)|
 | **Automation**| Automation is a strategic theme of the OSP MT. Automation obviously is a means to increase efficacy but also an enabler the execution large technical tasks like population or trials simulations that cannot be conducted manually. Due to its intrinsic transparency, automation is an element of quality by design.| Juri Solodenko [(@Yuri05)](https://github.com/Yuri05) |
+| **Biologics**| Biologics PBPK is a strategic theme of the OSP MT.  Biologics, or Lrge Molecules, are key modalities in current drug research an development and their development can benefit from various applications of PBPK (with added TMDD, e.g. for antibodies). | Wilbert De Witte [(@wilbertdew)](https://github.com/wilbertdew) |
 | **Community Engagement**|• To streamline official outside  communication channels of OSP<br>&nbsp;&nbsp;-  Social Media: LinkedIn / Twitter<br>&nbsp;&nbsp;-  Newsletter / OSP News Section<br>&nbsp;&nbsp;-  OSP Booth at conferences<br>&nbsp;&nbsp;-  OSP Events (Hackathon, …)<br>• Use Communication Channels to increase community engagement<br>• Obtain statements of endorsement<br>• Sustain Community Collaboration Framework | Stephan Schaller [(@StephanSchaller)](https://github.com/StephanSchaller) |
-| **DDI**| Quantitative DDI predictions (CYPs as well as transporters) are one of the key applications for PBPK and are a prerequisite for designing efficient clinical development programs and studies. A comprehensive library of well documented, qualified perpetrators and victims is a prerequisite for acceptance of DDI predictions from regulatory authorities. | Sebastian Frechen [(@sfrechen)](https://github.com/sfrechen)|
+| **DDI**| Quantitative DDI predictions (CYPs as well as transporters) are one of the key applications for PBPK and are a prerequisite for designing efficient clinical development programs and studies. A comprehensive library of well documented, qualified perpetrators and victims is a prerequisite for acceptance of DDI predictions from regulatory authorities. | Thomas Wendel [(@TWendl)](https://github.com/TWendl)|
 | **IVIVE** |• Improve and facilitate use of IVIVE in PK-Sim<br>• Provide guidelines on how to conduct IVIVE in PK-Sim<br>• Facilitate integration of in vitro data in prediction of DDI (e.g. integration of fraction metabolized)<br>• Extrapolation of Caco-2 permeabilities to effective permeabilities | Donato Teutonico [(@teutonicod)](https://github.com/teutonicod)|
+| **PBBM** | Quantitative predictions of formulation properties on PK (e.g. excipient effects or formulation comparisons) are one of the key applications for PBPK. An expanding library of well documented, qualified formulation release and dissolution models is a prerequisite for acceptance of PBBM predictions from regulatory authorities. | André Dallmann [(@AndreDlm)](https://github.com/AndreDlm)|
 | **PBPK best practices** | Establishing Standards for PBPK Model Development and Application to Ensure Reliability, Reproducibility and Transparency, Independent of Modeling Platform. The standards should be considered when developing a PBPK model, regardless of the platform. Not a how-to-guide |Matthew Riggs [(@riggsmm)](https://github.com/riggsmm)|
 | **PD** |• PBPK/PD & QSP modeling is a strategic theme of the OSP MT<br>• Identify needs for enabling / facilitating PD/QSP modelling in PK-Sim and MoBi<br>• To streamline PD efforts of OSP<br>• Derive a strategy for / identify public or industrial collaborations or funding sources to sponsor roadmap implementation | Stephan Schaller [(@StephanSchaller)](https://github.com/StephanSchaller) |
 | **Special populations**| The addition of new or updated virtual populations is required to expand the application scope of the software in a consistent manner across users. The overall objectives are to define a process for<br>1. technical generation of populations destined for the OSP Suite  and,<br>2. evaluation of those populations.<br>This protocol will allow populations to be added more efficiently.|Andrea Edginton [(@Aedginto)](https://github.com/aedginto)|
